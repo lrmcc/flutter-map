@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "179328624572",
+    "firebase_url": "https://testx-b7631.firebaseio.com",
+    "project_id": "testx-b7631",
+    "storage_bucket": "testx-b7631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179328624572:android:5047926573b129cc",
+        "android_client_info": {
+          "package_name": "com.evantestx.testx_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179328624572-110f3h5293221o55gbb7scsrokk2ocac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evantestx.testx_app",
+            "certificate_hash": "7f9bd88745c7b3af795d55f1e803be03bebd886c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCps37eND7nLHnGpXl8IqTqYPtK2BED-Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179328624572-7rofesofu8a0k52r2997kdkgqs2pvuha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
