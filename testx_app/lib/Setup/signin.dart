@@ -22,22 +22,22 @@ class _LoginPageState extends State<LoginPage> {
             child: Column(
               children: <Widget>[
                 TextFormField(
-                  validator: (input) {
-                    if(input.isEmpty) {
-                      return 'Please type an email';
-                    }
-                  },
+//                  validator: (input) {
+//                    if(input.isEmpty) {
+//                      return 'Please type an email';
+//                    }
+//                  },
                   onSaved: (input) => _email = input,
                   decoration: InputDecoration(
                       labelText: 'Email'
                   ),
                 ),
                 TextFormField(
-                  validator: (input) {
-                    if(input.length < 6) {
-                      return 'Please provide a password, least 6 characters';
-                    }
-                  },
+//                  validator: (input) {
+//                    if(input.length < 6) {
+//                      return 'Please provide a password, least 6 characters';
+//                    }
+//                  },
                   onSaved: (input) => _password = input,
                   decoration: InputDecoration(
                       labelText: 'Password'
